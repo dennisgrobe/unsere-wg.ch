@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Die Traum WG</title>
+    <title>Unsere WG</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Die Traum WG</description>
+    <description>Unsere WG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/ppicture.jpg</url>
-      <title>Die Traum WG</title>
+      <title>Unsere WG</title>
       <link>/</link>
     </image>
     
