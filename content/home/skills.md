@@ -30,7 +30,7 @@ subtitle = ""
   icon = "grin-alt"
   icon_pack = "far"
   name = "Lächeln schenken im Treppenhaus bereits in frühen Morgendstunden"
-  description = "Alle"
+  description = "Tino & Dennis"
 
 [[feature]]
   icon = "running"
@@ -42,11 +42,11 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Börsentipps"
-  description = "Finanzanalyst Trym"
+  description = "Dennis"
   
   [[feature]]
-  icon = "flushed"
-  icon_pack = "far"
-  name = "Norwegische Fluchwörter"
-  description = "Trym"
+  icon = "carrot"
+  icon_pack = "fas"
+  name = "Gemüse und Obst vom Land"
+  description = "Tino"
 +++

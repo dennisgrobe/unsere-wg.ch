@@ -18,7 +18,7 @@ height = "850px"
 
 [[item]]
   title = "Herzlich Willkommen auf unserer WG-Website"
-  content = "Wir, drei junge und aktive Kollegen, sind auf der Suche nach einer Wohnung zur Verwirklichung eines schon langen dagewesenen Traums einer gemeinsamen Wohngemeinschaft im wunderschönen Zürich. :house_with_garden: :smiley:"
+  content = "Wir, zwei junge und aktive Kollegen, sind auf der Suche nach einer Wohnung zur Verwirklichung eines schon langen dagewesenen Traums einer gemeinsamen Wohngemeinschaft im wunderschönen Zürich. :house_with_garden: :smiley:"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
