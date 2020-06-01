@@ -18,7 +18,7 @@ height = "850px"
 
 [[item]]
   title = "Herzlich Willkommen auf unserer WG-Website"
-  content = "Willkommen auf unserer WG-Website. Wir, drei junge und aktive Kollegen, sind auf der Suche nach einer Wohnung zur Verwirklichung eines schon langen dagewesenen Traums einer gemeinsamen Wohngemeinschaft im wunderschönen Zürich. :house_with_garden:"
+  content = "Wir, drei junge und aktive Kollegen, sind auf der Suche nach einer Wohnung zur Verwirklichung eines schon langen dagewesenen Traums einer gemeinsamen Wohngemeinschaft im wunderschönen Zürich. :house_with_garden: :smiley:"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -38,7 +38,7 @@ height = "850px"
 
 [[item]]
   title = ""
-  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt, das uns verbindet und zum Entschluss geführt hat, dass wir endlich zusammen wohnen möchten.  "
+  content = "Wir sind schon seit längerer Zeit gut befreundet und haben schon viel zusammen erlebt, das uns verbindet und zum Entschluss geführt hat, dass wir endlich zusammen wohnen möchten. :hear_no_evil: "
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
@@ -59,12 +59,21 @@ height = "850px"
 
 [[item]]
   title = ""
-  content = "Finanziell sind wir aufgrund unserer Arbeitstätigkeit neben dem Studium und einem Vollzeitarbeitenden gut abgesichert und falls doch einmal alle Stricke reissen, haben wir die “nettesten” Eltern, die selbstverständlich für uns bürgen."
+  content = "Finanziell sind wir aufgrund unserer Arbeitstätigkeit neben dem Studium und einem Vollzeitarbeitenden gut abgesichert und falls doch einmal alle Stricke reissen, haben wir die “nettesten” Eltern, die selbstverständlich für uns bürgen. :moneybag: :money_with_wings:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "305A4161.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.  
+  
+  [[item]]
+  title = ""
+  content = "Nun ist die Entscheidung bei Ihnen. Lernen Sie uns besser kennen, indem sie uns zu einer Besichtigung einladen oder heissen Sie uns in Ihrer Mietwohnung als künftige Mieter willkommen. :heart_eyes:"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "IMG_6096.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.  
   
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
