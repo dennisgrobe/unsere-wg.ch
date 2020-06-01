@@ -57,7 +57,4 @@ Den aufgestellten und äusserst kommunikativen Tino trifft man oft im Handstand 
 In seiner Freizeit treibt er gerne Sport verschiedenster Art. Ob Calisthenics (gerne nachschlagen), Surfen, Biken oder Skifahren, er ist für alles zu haben. Weiter ist er ein begeisterter Koch und geht an Wochenenden ob Sommer oder Winter gerne in die Ferienwohnung seiner Eltern in die Berge. 
 Er ist mit 3 Geschwistern im ländlichen Rafzerfeld (ZH) aufgewachsen. Da hat er in gewissen Massen bereits WG-Erfahrungen sammeln können. Mittlerweile fühlt er sich aber aufgrund der praktischen Lage und dem Charm und den Möglichkeiten, die diese Stadt bietet, definitiv zu Zürich hingezogen. 
 
-## Interessen
-
-* Calisthenics
 

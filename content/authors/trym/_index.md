@@ -54,8 +54,3 @@ user_groups:
 ---
 
 Trym is a Norwegian citizen who currently is working as an analyst for Partners Group in Zug. He has been living in Zürich for more than one year and really enjoys what Switzerland has to offer. He is passionated about hiking, skiing and sports in general, but also dedicated to developing himself both personally and professionally. Prior to Switzerland, he has been living and studying in Copenhagen for five years as well as travelling the world across all its continents. 
-
-## Interessen
-
-* Drinking Beer
-* Flirt
