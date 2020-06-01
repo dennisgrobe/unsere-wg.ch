@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Trym Strømberg
+name: Trym Strømberg Tollefsen
 
 # Username (this should match the folder name)
 authors:

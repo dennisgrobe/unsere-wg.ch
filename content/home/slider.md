@@ -66,14 +66,15 @@ height = "850px"
   overlay_img = "305A4161.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.  
   
+  
   [[item]]
   title = ""
-  content = "Nun ist die Entscheidung bei Ihnen. Lernen Sie uns besser kennen, indem sie uns zu einer Besichtigung einladen oder heissen Sie uns in Ihrer Mietwohnung als künftige Mieter willkommen. :heart_eyes:"
+  content = "Nun ist die Entscheidung bei Ihnen. Lernen Sie uns besser kennen, indem Sie uns zu einer Besichtigung einladen oder heissen Sie uns in Ihrer Mietwohnung als künftige Mieter willkommen. :heart_eyes:"
   align = "left"
-
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "IMG_6096.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.  
+  
   
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
