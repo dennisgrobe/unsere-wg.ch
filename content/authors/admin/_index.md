@@ -53,9 +53,7 @@ user_groups:
 - Visitors
 ---
 
-Dennis beatboxt immer und überall.
+Im Treppenhaus wird man Dennis oft in Fahrradmontur antreffen. Sein Drahtesel bringt ihn fast überall hin, wo er möchte. Sei es in seine Heimat zu seinem Vater nach Eglisau am Rhein oder einmal um den Zürichsee in Lichtgeschwindigkeit. Doch auch neben dem Radfahren ist er sportlich sehr vielseitig engagiert.
 
-## Interessen
+Sein Motto ist eigentlich bei allem das gleiche: warum einfach, wenn es auch komplex geht? Seinen Perfektionismus lebt er gerne auch auf kulinarische Weise in der Küche aus, was man den Bäuchen seiner bisherigen WG-Mitbewohner ansieht. 
 
-* So lange kochen bis ich keinen Hunger mehr habe
-* Flirten
